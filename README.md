@@ -1,7 +1,5 @@
 # netflix-eureka
 
-![Alt text](img/eureka.png)
-
 > Proof of Concept to demonstrate the Netflix Eureka use with Spring boot.
 
 - Eureka Service Registry
@@ -14,3 +12,5 @@
     - spring-boot-starter-web
     - spring-cloud-starter-netflix-eureka-client
     - spring-cloud-starter-netflix-eureka-server
+
+![Alt text](img/eureka.png)
