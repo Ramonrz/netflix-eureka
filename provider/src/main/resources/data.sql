@@ -1,0 +1,1 @@
+insert into state values (1, 'Rua 82 nº 400, Ed. Palácio Pedro Ludovico Teixeira, 6º andar – Ala Oeste Setor Central, Goiânia', 'Fornecedor Estado Goias', 'GO');
